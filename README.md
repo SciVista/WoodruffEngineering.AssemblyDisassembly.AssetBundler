@@ -1,3 +1,16 @@
+# Getting Started...
+This repository is an actual Unity project setup to allow you to build custom Unity bundles with assets that can then be utilized at runtime in the Coil Assembly application. 
+
+You will need to download the Unity Hub: https://unity.com/download
+
+After installing Unity Hub, go to Installs > Install Editor > Archive > download archive (link button) > Choose Unity 6, version: 6000.0.29f1. Install this editor version on your local machine (you will not need to install any dependencies like Visual Studio etc. so you can uncheck those items to reduce size on your machine). 
+
+Once the editor is installed, you will clone this repository and then using the Unity Hub after installing Unity 6, go to Projects > Add > Add Projects from Disk > locate and select the repository folder where you cloned on your local machine. 
+
+The below instructions go into detail on how to complete building your own custom assets.
+
+As a reminder any asset you create, you simply copy and paste it into the applications StreamingAssets folder. This folder will automatically open when you start the application. 
+
 # Getting the project
 First, clone the repository, then:
 ![image](https://github.com/user-attachments/assets/8537bad1-c9e0-4308-b45a-59aaf8aebcf3)
